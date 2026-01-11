@@ -121,7 +121,7 @@ A parte bônus só é avaliada se a parte obrigatória estiver **100% funcional*
 ├── server.c
 ├── includes/
 │   └── minitalk.h
-└── libft/ (se aplicável)
+└── libft/
 ```
 ----------
 
